@@ -1,0 +1,2 @@
+#Ads.txt file for techblogs.codes
+google.com, pub-6503488597467400, DIRECT, f08c47fec0942fa0
